@@ -11,7 +11,7 @@ This repository allows you to get the most performance out of your Nextcloud
 4. alpine versions of postgres and redis containers are used. Less weight - more speed
 5. Use current version of php with OPCache enabled
 
-### 🏎️What is the speed in the end?
+### 🏎️ What is the speed in the end?
 With a regular docker container all-in-one on my server, the load took about 2-3sec. With the new configuration it takes about 1s to boot up
 
 ### 💻 My server specifications
@@ -50,6 +50,6 @@ After downloading, put the files of this repository in one folder.
   - updated
   - ...
 
-### Recommendations
-In config/config.php enable logging of critical errors only. This way, Nextcloud will make fewer log entries
-Disable unnecessary standard applications and plugins
+### 🤓 Recommendations
+* In config/config.php enable logging of critical errors only. This way, Nextcloud will make fewer log entries
+* Disable unnecessary standard applications and plugins
