@@ -1,7 +1,7 @@
 # Nextcloud-Unit-Docker
-Nextcloud + Unit = Better speed 🔥
+🔥 Nextcloud + Unit = Better speed 🔥
 
-Many people know that Nextcloud is not known for its performance
+☹️ Many people know that Nextcloud is not known for its performance
 This repository allows you to get the most performance out of your Nextcloud
 
 ### ✅ Why is this solution fast?
